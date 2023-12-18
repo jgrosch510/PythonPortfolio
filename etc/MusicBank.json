@@ -1,0 +1,35 @@
+{
+    "dirs": {
+        "mb_root": "/usr3/home/jgrosch/MusicBank",
+        "mb_tmp_dir": "/usr/tmp/MusicBank",
+        "mb_log_dir": "/usr/local/site/MusicBank/log"
+    },
+    "db": {
+        "mb_db_dir": "/usr/local/site/MusicBank/data",
+        "mb_db_file": "MusicBank.sqlite",
+        "mb_db_type": "mariadb",
+        "mb_db_port": "3306",
+        "mb_db_user": "bdobbs",
+        "mb_db_password": "3MorePickles!!",
+        "mb_db_host": "moosedb.mooseriver.com",
+        "mb_db_name": "MusicBank"
+    },
+    "hosts": {
+        "mb_web_host": "musicbank.mooseriver.com"
+    },
+    "env": {
+        "myhier": "/usr3/home/jgrosch/Git/MusicBank",
+        "git_home": "/usr3/home/jgrosch/Git"
+    },
+    "user": {
+        "mb_user_name": "Bob Dobbs",
+        "mb_user_email": "bdobbs@MusicBank.com",
+        "mb_user_id": "bdobbs"
+    },
+    "name": {
+        "hyphen": "no",
+        "underscore": "yes",
+        "camel_case": "yes",
+        "snake_case": "no"
+    }
+}
