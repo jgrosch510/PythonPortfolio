@@ -10,7 +10,7 @@
         "mb_db_type": "mariadb",
         "mb_db_port": "3306",
         "mb_db_user": "bdobbs",
-        "mb_db_password": "3MorePickles!!",
+        "mb_db_password": "",
         "mb_db_host": "moosedb.mooseriver.com",
         "mb_db_name": "MusicBank"
     },

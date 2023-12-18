@@ -11,7 +11,7 @@
 		<MB_DB_TYPE>mariadb</MB_DB_TYPE>
 		<MB_DB_PORT>3306</MB_DB_PORT>
 		<MB_DB_USER>bdobbs</MB_DB_USER>
-		<MB_DB_PASSWORD></MB_DB_PASSWORD>
+		<MB_DB_PASSWORD>chujbpt3</MB_DB_PASSWORD>
 		<MB_DB_HOST>moosedb.mooseriver.com</MB_DB_HOST>
 		<MB_DB_NAME>MusicBank</MB_DB_NAME>
 	</DB>
