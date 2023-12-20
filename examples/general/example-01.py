@@ -1,8 +1,16 @@
 #!/usr/bin/env python3
 
 import os, sys
+import importlib
 import json
 import toml
+
+mbLibPath = os.getenv('MBLIBPATH')
+if mbLibPath is None:
+    print("mbLibPath is not defined in the user envirionment.")
+    sys.exit(1)
+    
+sys.path.append(mbLibPath)
 
 def main():
     gitHome = os.getenv('GIT_HOME')

@@ -33,7 +33,7 @@
 #
 #                              Copyright
 #
-#                   (C) Copyright 2023 Moose River LLC.
+#                   (C) Copyright 2023 - 2024 Moose River LLC.
 #                           <jgrosch@gmail.com>
 #
 #                         All Rights Reserved
@@ -88,7 +88,7 @@ The main package for the MooseRiver code base.
 # @depends: python (>=3.7)
 
 __author__      = 'Josef Grosch <jgrosch@gmail.com'
-__copyright__   = 'Copyright (c) 2023 MooseRiver, LLC.'
+__copyright__   = 'Copyright (c) 2023 - 2024 MooseRiver, LLC.'
 __description__ = ''
 __revision__    = '0.2'
 __version__     = '0.2'
